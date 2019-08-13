@@ -1,0 +1,5 @@
+anonymous
+root
+user
+ftpuser
+newuser
