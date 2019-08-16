@@ -6,7 +6,7 @@ REM
 REM Utility to generate a summary of a Windows system
 REM 
 REM Author:
-REM  Arris Huijgen (@_bitsadmin)
+REM  Arris Huijgen (@bitsadmin)
 REM 
 REM Website:
 REM  https://github.com/bitsadmin/
