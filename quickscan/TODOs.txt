@@ -1,0 +1,23 @@
+# TODO
+# Implement:
+# - 554/open/tcp//rtsp?///
+# Maybe implement:
+# - 995/open/tcp//ssl|pop3//UW Imap pop3d 2001.78rh/
+# - 135/open/tcp//msrpc//Microsoft Windows RPC/
+# - 5900/open/tcp//vnc//VNC (protocol 3.8)/
+# - 3372/open/tcp//msdtc//Microsoft Distributed Transaction Coordinator/
+# - 53/open/tcp//domain//Microsoft DNS 6.1.7601/
+# - 88/open/tcp//kerberos-sec//Microsoft Windows Kerberos (server time: 2013-12-29 13:52:51Z)/
+# - 389/open/tcp//ldap//Microsoft Windows Active Directory LDAP (Domain: thinc.local, Site: Default-First-Site-Name)/
+# - 3268/open/tcp//ldap//Microsoft Windows Active Directory LDAP (Domain: thinc.local, Site: Default-First-Site-Name)/
+# - 888/open/tcp//http-proxy//Squid http proxy 3.3.8/
+# - Server responded that host is not allowed to connect to MySQL service.
+# Something goes wrong with:
+# - /open/tcp//status//1 (RPC #100024)/
+# - l-s//Microsoft SQL Server 2000 8.00.766.00; SP3a/
+# - 080/open/tcp//http//Apache httpd 2.4.9 ((Win32) PHP|5.5.12)/
+# Skip:
+# - 800/open/tcp//vnc-http//TightVNC (user: gamma; VNC TCP port: 5900)/
+
+Oracle-TNS
+# TODO, check: http://tools.kali.org/vulnerability-analysis/dbpwaudit

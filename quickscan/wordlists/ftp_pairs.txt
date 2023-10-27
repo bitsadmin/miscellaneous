@@ -1,0 +1,2 @@
+newuser wampp
+anonymous some@mail.net
